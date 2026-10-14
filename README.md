@@ -1,4 +1,10 @@
 ## Hi there 👋
+I’m a recent MSc Data Analytics graduate (March 2026) with a background in archives, libraries, and data stewardship. My career started with organizing information and helping people find and use what they needed. That interest in bringing clarity to complex information led me to data analytics.
+
+I use SQL, Python, Power BI, Tableau, and automation tools to explore data, build dashboards, and simplify reporting workflows. My experience includes KPI tracking, process documentation, and collaborating with stakeholders to turn their needs into practical solutions.
+
+Based in Paris, I’m currently looking for opportunities in data analytics, business intelligence, and business analysis.
+
 
 <!--
 **teaArchivist/teaArchivist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
